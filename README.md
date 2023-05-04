@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web & mobile development
 - 💞️ I’m looking for a 2 months internship starting in august 2023
 - 📫 You can reach me on my email address: lea.valmy@gmail.com
-- Feel free to visit my Linkedin profile  => https://www.linkedin.com/in/l%C3%A9a-valmy-448157182/
+- 👀 Feel free to visit <a href="https://www.linkedin.com/in/l%C3%A9a-valmy-448157182/">my Linkedin profile</a>
 
 <!---
 Leavlm/Leavlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
