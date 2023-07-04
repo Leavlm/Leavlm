@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Leavlm
 - 👀 I’m interested in web development & design
 - 🌱 I’m currently learning web & mobile development
-- 💞️ I’m looking for a 2 months internship starting in august 2023
 - 📫 You can reach me on my email address: lea.valmy@gmail.com
 - 👀 Feel free to visit <a href="https://www.linkedin.com/in/l%C3%A9a-valmy-448157182/">my Linkedin profile</a>
 
