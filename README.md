@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leavlm
-- 👀 I’m passionate about design in general
+- 👀 I’m passionate about design
 - 🌱 I’m currently learning webdesign and communication
 - 📫 You can reach me on my email address: lea.valmy@gmail.com
 - 👀 Feel free to visit <a href="https://www.linkedin.com/in/l%C3%A9a-valmy-448157182/">my Linkedin profile</a>
